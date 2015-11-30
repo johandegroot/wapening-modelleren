@@ -1,2 +1,2 @@
-# wapening-modelleren
-Modelleren van wapening in BIM
+# Wapening modelleren in BIM
+"Modelleren van wapening in BIM", een op zichzelf staande discipline of een open te delen standaard voor eenieder die iets met de wapeningsdata moet? Is de modellering van wapening niet meer dan een parameter in kg/m3 of kan wapening tot in detail mee gemodelleerd worden? Het antwoord is: theoretisch kan vrijwel alles. De mogelijkheden zijn waarschijnlijk groter dan u zich nu bewust bent, echter komt er één en ander kijken bij het digitaal wapenen én de uitwisseling van deze data is niet vanzelfsprekend. Hiervoor zal de kennis van alle betrokken partijen tot bepaald niveau moeten rijken en traditionele processen moeten om. Om inzicht te generen in deze materie zal Johan de Groot van Wagemaker (auteur van het artikel <a href="http://www.wagemaker.nl/wp-content/uploads/2014/11/de-OMbuigstaat-Wagemaker-kl.pdf">"De OMbuigstaat"</a>) hier zijn kennis gaan delen.
